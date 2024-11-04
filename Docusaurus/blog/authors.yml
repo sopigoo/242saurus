@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+sopigoo:
+  name: Siti Shofi Nadhifa
+  title: comspci student
+  url: https://github.com/sopigoo
+  image_url: https://github.com/sopigoo.png
+  page: true
+  socials:
+    github: sopigoo
+
+karolinajocelyn:
+  name: Karolina Jocelyn
+  title: compsci student
+  url: https://github.com/karolinajocelyn
+  image_url: https://github.com/karolinajocelyn.png
+  page: true
+  socials:
+    github: karolinajocelyn
